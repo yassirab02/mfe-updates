@@ -1,0 +1,15 @@
+{
+  "notes": "See the assets below to download and install this version.",
+  "version": "0.3.12",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT2NTaFZvSlZFZzc3THRaVjQrV1BQRUUxZEJMYWNWaUVpZzRTS3JIejRqMGdTWDZFL2QyY0FHNkxGdXRicWo0Z0NRbXF4bzJibmlsK1d2S3NYeTV3UWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDI3NDQxCWZpbGU6bWZlLXByb2plY3QtdjJfMC4zLjEyX3g2NC1zZXR1cC5leGUKUVQvRkQyZEE0VnpSUFZPTERUTlZPMS8wMDk4TUhmN08rRk5YS1FWNDZvYW5WY25TZThHWE5aM2thQm9MS1kvejBsRUJHOXRGVHdDSUc2MzQ5L1hxQ2c9PQo=",
+      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.3.12_x64-setup.exe"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT2NTaFZvSlZFZzc3THRaVjQrV1BQRUUxZEJMYWNWaUVpZzRTS3JIejRqMGdTWDZFL2QyY0FHNkxGdXRicWo0Z0NRbXF4bzJibmlsK1d2S3NYeTV3UWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDI3NDQxCWZpbGU6bWZlLXByb2plY3QtdjJfMC4zLjEyX3g2NC1zZXR1cC5leGUKUVQvRkQyZEE0VnpSUFZPTERUTlZPMS8wMDk4TUhmN08rRk5YS1FWNDZvYW5WY25TZThHWE5aM2thQm9MS1kvejBsRUJHOXRGVHdDSUc2MzQ5L1hxQ2c9PQo=",
+      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.3.12_x64-setup.exe"
+    }
+  },
+  "pub_date": "2026-06-25T22:44:12.040Z"
+}
