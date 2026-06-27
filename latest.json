@@ -1,15 +1,15 @@
 {
+  "notes": "See the assets below to download and install this version.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT1g4alQ5TUNDQ050cllCZk9KUUxWQmMyZUQveWlFRW5uRUZndUJMYk1Za1BYYUtRK3Q3OFQvVnhLUlprVHUwT20wT0xlSXhJenRaQVhvSnl5VnZRK2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDMwMTQwCWZpbGU6bWZlLXByb2plY3QtdjJfMC4zLjEzX3g2NC1zZXR1cC5leGUKaGg4UW1kejhFMWc3NitHa1BJc2lrVE5DWlhKR3M2TGU2c0NzaHFmM1F1Y0VUbWtxUnYyM2RjTGgzbkZUUm9rbzRTVmN3QTZwdUl4M3FkUXRzM3dBQXc9PQo=",
-      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.3.13_x64-setup.exe"
+      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.3.14_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT1V2QkRoaWFMeStGaEZsbVRTZEdYbU9XbkQ2VDdRc2h3ZTVYVTZxVnpXc1Bpb2RrRXpFQk9Pb3htUnNGQXI3Slh5NkdHNWplT2pjMWtTTmlUZVo4UFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTg5NTI0CWZpbGU6bWZlLXByb2plY3QtdjJfMC4zLjE0X3g2NC1zZXR1cC5leGUKQ1FXMU5LemJlL2FmTEJvYUxBSW4vaDBZa01oZnlQUW8rRWsxUlFqanp2VnA2UCtUQXZoaHFYTDZoU0ZIUjRnYTJSaDFCN2FqQUZQOWlLd1lvQU40QUE9PQo="
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT1g4alQ5TUNDQ050cllCZk9KUUxWQmMyZUQveWlFRW5uRUZndUJMYk1Za1BYYUtRK3Q3OFQvVnhLUlprVHUwT20wT0xlSXhJenRaQVhvSnl5VnZRK2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDMwMTQwCWZpbGU6bWZlLXByb2plY3QtdjJfMC4zLjEzX3g2NC1zZXR1cC5leGUKaGg4UW1kejhFMWc3NitHa1BJc2lrVE5DWlhKR3M2TGU2c0NzaHFmM1F1Y0VUbWtxUnYyM2RjTGgzbkZUUm9rbzRTVmN3QTZwdUl4M3FkUXRzM3dBQXc9PQo=",
-      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.3.13_x64-setup.exe"
+      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.3.14_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT1V2QkRoaWFMeStGaEZsbVRTZEdYbU9XbkQ2VDdRc2h3ZTVYVTZxVnpXc1Bpb2RrRXpFQk9Pb3htUnNGQXI3Slh5NkdHNWplT2pjMWtTTmlUZVo4UFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTg5NTI0CWZpbGU6bWZlLXByb2plY3QtdjJfMC4zLjE0X3g2NC1zZXR1cC5leGUKQ1FXMU5LemJlL2FmTEJvYUxBSW4vaDBZa01oZnlQUW8rRWsxUlFqanp2VnA2UCtUQXZoaHFYTDZoU0ZIUjRnYTJSaDFCN2FqQUZQOWlLd1lvQU40QUE9PQo="
     }
   },
-  "pub_date": "2026-06-25T23:29:13.690Z",
-  "version": "0.3.13",
-  "notes": "See the assets below to download and install this version."
+  "pub_date": "2026-06-27T19:45:32.566Z",
+  "version": "0.3.14"
 }
