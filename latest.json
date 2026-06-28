@@ -1,15 +1,15 @@
 {
-  "version": "0.4.2",
-  "notes": "See the assets below to download and install this version.",
-  "pub_date": "2026-06-28T15:00:40.093Z",
+  "pub_date": "2026-06-28T17:09:16.224Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT1dza2dXSXMxNkZVSDRQbnhGVXowODBvcGdKcVlNVWc0ZE9nenlVdlJmT3dHank0bmV3ckFQdExLZGJBaTA5VVZvMXlDUjdpbXBhdUZTRVkvbDJPNEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjU4ODMwCWZpbGU6bWZlLXByb2plY3QtdjJfMC40LjJfeDY0LXNldHVwLmV4ZQpicTErYVdkTnJValZSRGZ3WEM3blgwTWpLMjI3bm1UWmV5ZGpsM3VFZVNxSVhPZEtMeGdlNVlQbmRSMDUrelNTcml3QlIrWjFSU2crZDNlMFZIZXhCUT09Cg==",
-      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.4.2_x64-setup.exe"
+      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.4.3_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT1FMbXRXeFJGempOSTBxby9aRjFiRFcvNlNka3dJNHFXSmhNbnAzZ1E2MGZyeHZRT3RSdlRCVUhxSkFLalJKcUlrZEMvaDMyM1J0NEhoTmh3SXdhY0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjY2NTQ4CWZpbGU6bWZlLXByb2plY3QtdjJfMC40LjNfeDY0LXNldHVwLmV4ZQpiTEErVW5WV2plNkJ2V29WbitHQXFtVVRxRFdOUndoOVFBK1pFb252R0lYcFN3eUdQN0lQUHBzYTNETWNKZzRnc0oxMHdYNmdlVW9qbkVqQm9BZ0NEdz09Cg=="
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT1dza2dXSXMxNkZVSDRQbnhGVXowODBvcGdKcVlNVWc0ZE9nenlVdlJmT3dHank0bmV3ckFQdExLZGJBaTA5VVZvMXlDUjdpbXBhdUZTRVkvbDJPNEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjU4ODMwCWZpbGU6bWZlLXByb2plY3QtdjJfMC40LjJfeDY0LXNldHVwLmV4ZQpicTErYVdkTnJValZSRGZ3WEM3blgwTWpLMjI3bm1UWmV5ZGpsM3VFZVNxSVhPZEtMeGdlNVlQbmRSMDUrelNTcml3QlIrWjFSU2crZDNlMFZIZXhCUT09Cg==",
-      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.4.2_x64-setup.exe"
+      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.4.3_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT1FMbXRXeFJGempOSTBxby9aRjFiRFcvNlNka3dJNHFXSmhNbnAzZ1E2MGZyeHZRT3RSdlRCVUhxSkFLalJKcUlrZEMvaDMyM1J0NEhoTmh3SXdhY0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjY2NTQ4CWZpbGU6bWZlLXByb2plY3QtdjJfMC40LjNfeDY0LXNldHVwLmV4ZQpiTEErVW5WV2plNkJ2V29WbitHQXFtVVRxRFdOUndoOVFBK1pFb252R0lYcFN3eUdQN0lQUHBzYTNETWNKZzRnc0oxMHdYNmdlVW9qbkVqQm9BZ0NEdz09Cg=="
     }
-  }
+  },
+  "version": "0.4.3",
+  "notes": "See the assets below to download and install this version."
 }
