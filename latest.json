@@ -1,15 +1,15 @@
 {
   "notes": "See the assets below to download and install this version.",
   "platforms": {
-    "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT1FRMG9jMERpMnpIeE9FSUVhTjJPZElFS3ZZRHd1OE5SQnpGWSsxb29vZ0VoWDdQNy9DcGx2cE5zK0NhVjBPRGxBeG52clVBNDJvcTZaRnVGdFZkN1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzI4NzYwCWZpbGU6bWZlLXByb2plY3QtdjJfMC40LjRfeDY0LXNldHVwLmV4ZQpBQVJPQ1RRL0F0VTNXSEFWdlZ1L2VQL3d5R3dId1lXTndyMmpmRm9kdGF1dFZ1TEdrWWNVV3hZUlFJNHNMb1k3QkwwS0pUcDBrdm9QcHpTVldaRTRDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.4.4_x64-setup.exe"
-    },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT1FRMG9jMERpMnpIeE9FSUVhTjJPZElFS3ZZRHd1OE5SQnpGWSsxb29vZ0VoWDdQNy9DcGx2cE5zK0NhVjBPRGxBeG52clVBNDJvcTZaRnVGdFZkN1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzI4NzYwCWZpbGU6bWZlLXByb2plY3QtdjJfMC40LjRfeDY0LXNldHVwLmV4ZQpBQVJPQ1RRL0F0VTNXSEFWdlZ1L2VQL3d5R3dId1lXTndyMmpmRm9kdGF1dFZ1TEdrWWNVV3hZUlFJNHNMb1k3QkwwS0pUcDBrdm9QcHpTVldaRTRDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.4.4_x64-setup.exe"
+      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.4.5_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT1luR2hSd0syUU4xUFVHS3MrWVBXQVIyUDkwWUYyZVowbGpGOTR5ZEwvSUQ1SFRYeWhNVGhVTU03YzhjdldiVnM0Wjdmcy9PK3l3b0JPY29DTkRqMXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzQxODgyCWZpbGU6bWZlLXByb2plY3QtdjJfMC40LjVfeDY0LXNldHVwLmV4ZQp3KzhEQUkyWUpFcWNPbmQzL3FuWnBsR2FVN1Jpc1NQVXR0ejE1bGtXQUl2MTlqRHRPVXF3N2RpMVJ6NEU0S0pscS9qL0JWV01Zc0FqL0R0UDBoNWhCZz09Cg=="
+    },
+    "windows-x86_64-nsis": {
+      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.4.5_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT1luR2hSd0syUU4xUFVHS3MrWVBXQVIyUDkwWUYyZVowbGpGOTR5ZEwvSUQ1SFRYeWhNVGhVTU03YzhjdldiVnM0Wjdmcy9PK3l3b0JPY29DTkRqMXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzQxODgyCWZpbGU6bWZlLXByb2plY3QtdjJfMC40LjVfeDY0LXNldHVwLmV4ZQp3KzhEQUkyWUpFcWNPbmQzL3FuWnBsR2FVN1Jpc1NQVXR0ejE1bGtXQUl2MTlqRHRPVXF3N2RpMVJ6NEU0S0pscS9qL0JWV01Zc0FqL0R0UDBoNWhCZz09Cg=="
     }
   },
-  "version": "0.4.4",
-  "pub_date": "2026-06-29T10:26:13.749Z"
+  "pub_date": "2026-06-29T14:04:53.690Z",
+  "version": "0.4.5"
 }
