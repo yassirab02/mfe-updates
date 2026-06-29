@@ -1,15 +1,15 @@
 {
-  "pub_date": "2026-06-28T17:09:16.224Z",
+  "notes": "See the assets below to download and install this version.",
   "platforms": {
-    "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.4.3_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT1FMbXRXeFJGempOSTBxby9aRjFiRFcvNlNka3dJNHFXSmhNbnAzZ1E2MGZyeHZRT3RSdlRCVUhxSkFLalJKcUlrZEMvaDMyM1J0NEhoTmh3SXdhY0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjY2NTQ4CWZpbGU6bWZlLXByb2plY3QtdjJfMC40LjNfeDY0LXNldHVwLmV4ZQpiTEErVW5WV2plNkJ2V29WbitHQXFtVVRxRFdOUndoOVFBK1pFb252R0lYcFN3eUdQN0lQUHBzYTNETWNKZzRnc0oxMHdYNmdlVW9qbkVqQm9BZ0NEdz09Cg=="
-    },
     "windows-x86_64-nsis": {
-      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.4.3_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT1FMbXRXeFJGempOSTBxby9aRjFiRFcvNlNka3dJNHFXSmhNbnAzZ1E2MGZyeHZRT3RSdlRCVUhxSkFLalJKcUlrZEMvaDMyM1J0NEhoTmh3SXdhY0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjY2NTQ4CWZpbGU6bWZlLXByb2plY3QtdjJfMC40LjNfeDY0LXNldHVwLmV4ZQpiTEErVW5WV2plNkJ2V29WbitHQXFtVVRxRFdOUndoOVFBK1pFb252R0lYcFN3eUdQN0lQUHBzYTNETWNKZzRnc0oxMHdYNmdlVW9qbkVqQm9BZ0NEdz09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT1FRMG9jMERpMnpIeE9FSUVhTjJPZElFS3ZZRHd1OE5SQnpGWSsxb29vZ0VoWDdQNy9DcGx2cE5zK0NhVjBPRGxBeG52clVBNDJvcTZaRnVGdFZkN1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzI4NzYwCWZpbGU6bWZlLXByb2plY3QtdjJfMC40LjRfeDY0LXNldHVwLmV4ZQpBQVJPQ1RRL0F0VTNXSEFWdlZ1L2VQL3d5R3dId1lXTndyMmpmRm9kdGF1dFZ1TEdrWWNVV3hZUlFJNHNMb1k3QkwwS0pUcDBrdm9QcHpTVldaRTRDdz09Cg==",
+      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.4.4_x64-setup.exe"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZFpIQ3h6S3JJT1FRMG9jMERpMnpIeE9FSUVhTjJPZElFS3ZZRHd1OE5SQnpGWSsxb29vZ0VoWDdQNy9DcGx2cE5zK0NhVjBPRGxBeG52clVBNDJvcTZaRnVGdFZkN1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzI4NzYwCWZpbGU6bWZlLXByb2plY3QtdjJfMC40LjRfeDY0LXNldHVwLmV4ZQpBQVJPQ1RRL0F0VTNXSEFWdlZ1L2VQL3d5R3dId1lXTndyMmpmRm9kdGF1dFZ1TEdrWWNVV3hZUlFJNHNMb1k3QkwwS0pUcDBrdm9QcHpTVldaRTRDdz09Cg==",
+      "url": "https://raw.githubusercontent.com/yassirab02/mfe-updates/main/mfe-project-v2_0.4.4_x64-setup.exe"
     }
   },
-  "version": "0.4.3",
-  "notes": "See the assets below to download and install this version."
+  "version": "0.4.4",
+  "pub_date": "2026-06-29T10:26:13.749Z"
 }
